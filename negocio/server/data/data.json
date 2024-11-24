@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Oficial",
+        "compra": 960.70,
+        "venta": 1007.90,
+        "historial": []
+    },
+    {
+        "id": 2,
+        "nombre": "Blue",
+        "compra": 700,
+        "venta": 1180.00,
+        "historial": []
+    },
+    {
+        "id": 3,
+        "nombre": "tarjeta",
+        "compra": 0.00,
+        "venta": 1615.20,
+        "historial": []
+    },
+    {
+        "id": 4,
+        "nombre": "MEP",
+        "compra": 1135.90,
+        "venta": 1135.70,
+        "historial": []
+    }
+]
